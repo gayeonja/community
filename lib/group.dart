@@ -17,7 +17,7 @@ class group_widget extends StatelessWidget {
                 style: TextStyle(
                   fontSize: 20,
                   fontFamily: 'Montserrat',
-                  fontWeight: FontWeight.bold,
+                  fontWeight: FontWeight.bold, // comment
                   fontStyle: FontStyle.normal,
                 ),
               ),
