@@ -8,7 +8,7 @@ Download [Android Studio](https://developer.android.com/studio?gad_source=1&gcli
 
 Set up Flutter by following these [steps](https://docs.flutter.dev/get-started/editor). 
 
-Follow these [steps](https://developer.android.com/studio/run/managing-avds) to add a virtual device. 
+Follow these [steps](https://developer.android.com/studio/run/managing-avds) to add a virtual device. No virtual device necessary to run the app on Chrome. 
 
 ## Run
 Run the app by follow these [steps](https://developer.android.com/studio/run/emulator). 
